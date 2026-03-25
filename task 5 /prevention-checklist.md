@@ -1,4 +1,4 @@
-Stay Safe Online - Checklist :-
+# Stay Safe Online - Checklist :-
 
 1. Use strong and unique passwords for email, social media, and academic accounts also enable two-factor authentication.
 2. Do not click suspicious links in emails, WhatsApp, or SMS claiming prizes, bank alerts, or job offers.
