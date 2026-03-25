@@ -1,4 +1,4 @@
-Do’s :-
+## Do’s :-
 
 1. One should always be careful before posting on socail media. 
 
@@ -10,7 +10,7 @@ Do’s :-
 
 5. Use social media for learning,networking and all the activities which can be beneficial for you.
 
-Don’ts :-
+## Don’ts :-
 
 1. Don’t share personal information and contacts. 
 
