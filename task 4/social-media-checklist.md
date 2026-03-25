@@ -1,6 +1,6 @@
 Do’s :-
 
-One should always be careful before posting on socail media.
+One should always be careful before posting on socail media. 
 Use privacy and security settings for your safety
 Always verify information before sharing and believing in them.
 Be respectful and professional while communicating with strangers.
