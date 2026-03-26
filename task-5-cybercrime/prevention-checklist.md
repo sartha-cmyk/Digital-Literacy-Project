@@ -1,12 +1,12 @@
 # Stay Safe Online - Checklist :-
 
-1. Use strong and unique passwords for email, social media, and academic accounts also enable two-factor authentication.
-2. Do not click suspicious links in emails, WhatsApp, or SMS claiming prizes, bank alerts, or job offers.
-3. Verify internship or job offers by checking the company’s official website and email domain before applying.
-4. Avoid using public wifi for logging into banking or academic portals, instead use mobile data.
-5. Keep your phone and laptop updated with the latest security updates and antivirus software.
-6. Limit personal information on social media (phone number, address, college ID, travel plans, etc.).
-7. Never share OTP, UPI PIN, or bank details with anyone, even if they claim to be from the bank or support team.
-8. Always verify UPI payment requests before approving also receiving money does not require entering a UPI PIN.
-9. Check UPI IDs and QR codes carefully before making payments to avoid fraud.
-10. Report any cyber fraud immediately to National Cyber Crime Portal – cybercrime.gov.in or Cyber Helpline: 1930
+1. For your email, social media, and school accounts, use strong, unique passwords and turn on two-factor authentication.
+2. Don't click on links in emails, WhatsApp messages, or SMS that look like they might be scams for prizes, bank alerts, or job offers.
+3. Before applying for an internship or job, make sure the offer is real by checking the company's official website and email address.
+4. Don't use public wifi to log into your bank or school accounts. Instead, use your phone's data.
+5. Make sure your phone and laptop have the most recent antivirus software and security updates.
+6. Don't post too much personal information on social media, like your phone number, address, college ID, travel plans, and so on.
+7. Don't ever give out your OTP, UPI PIN, or bank information to anyone, even if they say they work for the bank or support team.
+ 8. Always check UPI payment requests before you approve them. You don't need to enter a UPI PIN to get money.
+9. To avoid fraud, make sure to check UPI IDs and QR codes carefully before paying.
+10. If you see any cyber fraud, call the National Cyber Crime Portal at cybercrime.gov.in or the Cyber Helpline at 1930 right away.
